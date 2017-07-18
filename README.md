@@ -2,6 +2,11 @@
 
 made with Unity 5.6.0f3 https://store.unity.com/download?ref=personal
 
+**Download**
+
+[Windows](https://github.com/ssshake/fire-side-tech-chat-the-game/blob/master/Binaries/Windows/FSTTTG_win.zip)
+[OSX](https://github.com/ssshake/fire-side-tech-chat-the-game/blob/master/Binaries/OSX/fire-side-tech-talk-the-game_osx.zip)
+
 ![screenshot](screenshot.png)
 
 # The Story
